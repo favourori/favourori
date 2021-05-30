@@ -8,5 +8,4 @@ Software Engineer with 5+ years of experience building and shipping innovative p
 <ul>
 <li>Cloud Computing</li>
 <li>Software Development </li>
-<li>Product Design</li>
 </ul>
