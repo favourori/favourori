@@ -1,4 +1,4 @@
-<h3>👋 Hi there! I'm Favour Ori</h3>
+<h3>👋 Hi, I'M FAVOUR ORI</h3>
 
 <hr/>
 
