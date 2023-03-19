@@ -2,7 +2,7 @@
 
 <hr/>
 
-Software Engineer keen on building and shipping innovative products geared toward simplifying, automating, and improving life
+Product Engineer keen on building and shipping innovative products geared toward simplifying, automating, and improving life
 <b><p>Interests:</p></b>
 <ul>
 <li>Cloud Computing</li>
